@@ -40,10 +40,8 @@ _ 2018,payam Noor University of Rey
 ---
 + I am working in Mofid Brokerage .
 
-### contact with me
+### [contact with me](https://web.telegram.org/#/im?p=@M7M_K)
 
----
-+ https://web.telegram.org/#/im?p=@M7M_K
 
 --- 
 ### [رزومه فارسی](resume-fa.md)
