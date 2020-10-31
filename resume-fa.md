@@ -1,3 +1,8 @@
+<style type="text/css">
+body{
+ direction:rtl;
+}
+</style>
 ### میرمحمد کمالی
 <a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="http://uupload.ir/files/rnde_mohammad_thumb.jpg" border="0" alt="آپلود عکس" /></a>
 
