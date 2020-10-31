@@ -1,46 +1,45 @@
-<div dir="rtl">
-### Mir Mohammad Kamali
+### میرمحمد کمالی
 <a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="http://uupload.ir/files/rnde_mohammad_thumb.jpg" border="0" alt="آپلود عکس" /></a>
 
-### Personal informations
+### اطلاعات شخصی
 
 ---
-+ name: Mir mohammad
-+ last name : kamali
-+ Date of birth : 1999/April/10
-+ I am a trader and Computer engineering student
-+ location : Tehran , I.R.Iran
++ نام : میرمحمد
++ نام خانوادگی : کمالی
++ تاریخ تولد : ۱۳۷۸/۰۱/۲۱
++ دانشجوی مهندسی کامپیوتر
++ موقعیت مکانی : ایران،تهران
 
 
-### Skill Highlights
-
----
-+ trade on Tehran Stock Exchange and Forex
-+ Programming
-+ playing games on best leagues
-
-### Education
+### مهارت ها
 
 ---
-+ Diploma : Shahid Dr.Chamran school
-_ 2015
-+ Bachelor of science : computer Engineering
-_ 2018,payam Noor University of Rey 
++ خرید و فروش اوراق بهادار بورس تهران
++ برنامه نویسی
++ بازی های ویدئویی
 
-### Favorites
-
----
-+ Trade
-+ ping-pong
-+ travel 
-+ playing video games
-
-### working Experience
+### تحصیلات
 
 ---
-+ I am working in Mofid Brokerage .
++ دیپلم : مدرسه ی شهید چمران
+_ ۹۴/۹۵
++ کارشناسی : 
+_ ورودی سال۹۷ دانشگاه پیام نور شهر ری 
 
-### contact with me
+### علایق
+
+---
++ معامله
++ پینگ پونگ
++ مسافرت
++ بازی های ویدئویی
+
+### سوابق کاری
+
+---
++ مدرس تحلیل نمودار کارگزاری مفید
+
+### تماس با من
 
 ---
 + https://web.telegram.org/#/im?p=@M7M_K
