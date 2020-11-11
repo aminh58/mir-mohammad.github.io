@@ -5,11 +5,12 @@
 
 ---
 <ol>
-  <li> name: Mir mohammad</li>
-  <li> last name : kamali</li>
+  <li> Name: Mir Mohammad</li>
+  <li> Last name : Kamali</li>
   <li> Date of birth : 1999/April/10</li>
+  <li> Martial status : Single
   <li> I am a trader and Computer engineering student</li>
-  <li> location : Tehran , I.R.Iran</li>
+  <li> Location : Tehran , I.R.Iran</li>
  </ol>
 
 
