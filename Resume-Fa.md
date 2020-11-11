@@ -54,4 +54,29 @@ body{
  <li> مدرس تحلیل نمودار کارگزاری مفید</li>
 </ol>
 
+### زبان های محاوره
+
+---
+<ol>
+ <li> فارسی</li>
+ <li> ترکی استانبولی</li>
+ <li> آذری</li>
+ <li> انگلیسی</li>
+</ol>
+
+### زبان های برنامه نویسی
+
+---
+<ol>
+ <li> Android</li>
+ <li> IOS</li>
+ <li> Java Script</li>
+ <li> C</li>
+ <li> C++</li>
+ <li> HTML</li>
+ <li> CSS</li>
+ <li> SQL</li>
+</ol>
+ 
+
 ### [تماس با من](https://web.telegram.org/#/im?p=@M7M_K)
