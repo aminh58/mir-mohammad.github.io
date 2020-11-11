@@ -18,6 +18,7 @@
   <li> trade on Tehran Stock Exchange and Forex</li>
   <li>Programming</li>
   <li>playing games on best leagues</li>
+ </ol>
 
 ### Education
 
