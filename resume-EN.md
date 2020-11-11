@@ -32,6 +32,30 @@
   _ 2018,payam Noor University of Rey </li>
 </ol>
 
+### Speaking language
+
+---
+<ol> 
+  <li> Persian</li>
+  <li> Turkish</li>
+  <li> Azeri</li>
+  <li> English</li>
+</ol>
+
+### programing language
+
+---
+<ol>
+ <li> Android</li>
+ <li> IOS</li>
+ <li> Java Script</li>
+ <li> C</li>
+ <li> C++</li>
+ <li> HTML</li>
+ <li> CSS</li>
+ <li> SQL</li>
+</ol>
+
 ### Favorites
 
 ---
@@ -48,6 +72,7 @@
 <ol>
   <li> I am working in Mofid Brokerage </li>
 </ol>
+
 ### [contact with me](https://web.telegram.org/#/im?p=@M7M_K)
 
 
