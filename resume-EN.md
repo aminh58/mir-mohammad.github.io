@@ -14,9 +14,10 @@
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ Programming
-+ playing games on best leagues
+<ol>
+  <li> trade on Tehran Stock Exchange and Forex</li>
+  <li>Programming</li>
+  <li>playing games on best leagues</li>
 
 ### Education
 
