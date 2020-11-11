@@ -33,6 +33,16 @@
   _ 2018,payam Noor University of Rey </li>
 </ol>
 
+### Favorites
+
+---
+<ol>
+  <li> Trade</li>
+  <li> ping-pong</li>
+  <li> travel </li>
+  <li> playing video games</li>
+</ol>
+
 ### Speaking language
 
 ---
@@ -55,16 +65,6 @@
  <li> HTML</li>
  <li> CSS</li>
  <li> SQL</li>
-</ol>
-
-### Favorites
-
----
-<ol>
-  <li> Trade</li>
-  <li> ping-pong</li>
-  <li> travel </li>
-  <li> playing video games</li>
 </ol>
 
 ### working Experience
