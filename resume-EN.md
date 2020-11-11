@@ -8,10 +8,10 @@
   <li> Name: Mir Mohammad</li>
   <li> Last name : Kamali</li>
   <li> Date of birth : 1999/April/10</li>
-  <li> Martial status : Single
+  <li> Martial status : Single</li>
   <li> I am a trader and Computer engineering student</li>
   <li> Location : Tehran , I.R.Iran</li>
- </ol>
+</ol>
 
 
 ### Skill Highlights
@@ -21,7 +21,7 @@
   <li> trade on Tehran Stock Exchange and Forex</li>
   <li>Programming</li>
   <li>playing games on best leagues</li>
- </ol>
+</ol>
 
 ### Education
 
