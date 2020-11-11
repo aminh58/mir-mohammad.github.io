@@ -4,11 +4,13 @@
 ### Personal informations
 
 ---
-+ name: Mir mohammad
-+ last name : kamali
-+ Date of birth : 1999/April/10
-+ I am a trader and Computer engineering student
-+ location : Tehran , I.R.Iran
+<ol>
+  <li> name: Mir mohammad</li>
+  <li> last name : kamali</li>
+  <li> Date of birth : 1999/April/10</li>
+  <li> I am a trader and Computer engineering student</li>
+  <li> location : Tehran , I.R.Iran</li>
+ </ol>
 
 
 ### Skill Highlights
@@ -23,24 +25,29 @@
 ### Education
 
 ---
-+ Diploma : Shahid Dr.Chamran school
-_ 2015
-+ Bachelor of science : computer Engineering
-_ 2018,payam Noor University of Rey 
+<ol>
+<li> Diploma : Shahid Dr.Chamran school
+  _ 2015</li>
+<li> Bachelor of science : computer Engineering
+  _ 2018,payam Noor University of Rey </li>
+</ol>
 
 ### Favorites
 
 ---
-+ Trade
-+ ping-pong
-+ travel 
-+ playing video games
+<ol>
+  <li> Trade</li>
+  <li> ping-pong</li>
+  <li> travel </li>
+  <li> playing video games</li>
+</ol>
 
 ### working Experience
 
 ---
-+ I am working in Mofid Brokerage .
-
+<ol>
+  <li> I am working in Mofid Brokerage </li>
+</ol>
 ### [contact with me](https://web.telegram.org/#/im?p=@M7M_K)
 
 
