@@ -1,3 +1,3 @@
-### [Persian resume](resume-Fa.md)
+### [Persian resume](Resume-Fa.md)
 
 ### [English resume](resume-EN.md)
