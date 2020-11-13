@@ -1,6 +1,6 @@
 
 ---
-[FA](index.md)<a class="pt-trigger" href="index.md" data-animation="62"> <img src="img/Iran.png" width="20" height="20"/></a>
+[FA](index.md)<a class="pt-trigger" href="index" data-animation="62"> <img src="img/Iran.png" width="20" height="20"/></a>
 
 ### Mir Mohammad Kamali
 <a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="http://uupload.ir/files/rnde_mohammad_thumb.jpg" border="0" alt="آپلود عکس" /></a>
