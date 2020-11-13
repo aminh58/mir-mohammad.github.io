@@ -1,6 +1,6 @@
 
 ---
-<a class="pt-trigger" href="resume-EN" data-animation="62"> <img src="img/en.png" width="20" height="20"/></a>
+[EN](resume-EN)<a class="pt-trigger" href="resume-EN" data-animation="62"> <img src="img/en.png" width="20" height="20"/></a>
 
 <style type="text/css">
 body{
