@@ -1,7 +1,7 @@
 # زبان
 
 ---
-[English](resume-EN.md)<a class="pt-trigger" href="EN.html" data-animation="62"> <img src="img/en.png" width="20" height="20"/></a>
+[English <a class="pt-trigger" href="EN.html" data-animation="62"> <img src="img/en.png" width="20" height="20"/></a>](resume-EN.md)
 
 <style type="text/css">
 body{
