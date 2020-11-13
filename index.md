@@ -77,7 +77,7 @@ body{
  <li> IOS</li>
  <li> Java Script</li>
  <li> C</li>
- <li> C++</li>
+ <li> ++C</li>
  <li> HTML</li>
  <li> CSS</li>
  <li> SQL</li>
