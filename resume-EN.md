@@ -1,7 +1,7 @@
 # language:
 
 ---
-[Persian](index.md)<a href="index.html" data-animation="62"> <img src="img/Iran.png" width="20" height="20"/></a>
+[Persian <a href="index.html" data-animation="62"> <img src="img/Iran.png" width="20" height="20"/></a>](index.md)
 
 ### Mir Mohammad Kamali
 <a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="http://uupload.ir/files/rnde_mohammad_thumb.jpg" border="0" alt="آپلود عکس" /></a>
