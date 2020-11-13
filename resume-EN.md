@@ -1,4 +1,3 @@
-# language:
 
 ---
 [Persian <a href="index.html" data-animation="62"> <img src="img/Iran.png" width="20" height="20"/></a>](index.md)
