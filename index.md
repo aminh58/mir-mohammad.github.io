@@ -8,7 +8,8 @@ body{
 <a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="http://uupload.ir/files/rnde_mohammad_thumb.jpg" border="0" alt="آپلود عکس" /></a>
 
 # زبان
-## [<a class="pt-trigger" href="EN.html" data-animation="62"> <img src="img/en.png" width="20" height="20"/></a>](resume-EN.md)
+
+# [<a class="pt-trigger" href="EN.html" data-animation="62"> <img src="img/en.png" width="20" height="20"/></a>](resume-EN.md)
 
 
 ### اطلاعات شخصی
